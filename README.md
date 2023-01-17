@@ -4,15 +4,15 @@
 
 **1.1. OBJETIVO GENERAL**
 
-Analizar el funcionamiento de un sensor de nivel de agua, mediante la creación de circuito en el protoboard para poder analizar desde un circuito ya realizado los componentes y su correcta conexión al circuito.
+-Analizar el funcionamiento de un sensor de nivel de agua, mediante la creación de circuito en el protoboard para poder analizar desde un circuito ya realizado los componentes y su correcta conexión al circuito.
 
 **1.2. OBJETIVOS ESPECÍFICOS**
 
-Realizar el proceso de ingeniería inversa mediante el desallorro del sensor de nivel con el fin de conocer cómo fluyen las diferentes conexiones en los circuitos.
+-Realizar el proceso de ingeniería inversa mediante el desallorro del sensor de nivel con el fin de conocer cómo fluyen las diferentes conexiones en los circuitos.
 
-Determinar la polaridad de los diferentes componentes utilizados en el proyecto mediante el análisis visual-físico de cada componente con el fin de evitar dañar un componente en proyectos futuros por mala conexión.
+-Determinar la polaridad de los diferentes componentes utilizados en el proyecto mediante el análisis visual-físico de cada componente con el fin de evitar dañar un componente en proyectos futuros por mala conexión.
 
-Recrear un circuito con la función de sensor, mediante la guía de un circuito sistemático e investigación previa, para poner a prueba los conocimientos en conexiones físicas aprendidos en clase.
+-Recrear un circuito con la función de sensor, mediante la guía de un circuito sistemático e investigación previa, para poner a prueba los conocimientos en conexiones físicas aprendidos en clase.
 
 **2. MARCO TEÓRICO (RESUMEN)**
 
@@ -37,7 +37,7 @@ El circuito de conmutación doble es el interruptor capaz de conectar y desconec
 
 [![1.jpg](https://i.postimg.cc/ry32gq0Z/1.jpg)](https://postimg.cc/nM4Whb1q)
 
-**Funcionamiento:**
+**FUNCIONAMIENTO:**
 
 La fase debe pasar por los dos interruptores antes de dirigirse a la lámpara en cuestión, con la particularidad de que ambos interruptores deben de estar unidos por una pareja de cables, que es lo que permite que al abrir o cerrar cualquiera de las dos llaves, la luz pase de encendida a apagada o viceversa.
 
@@ -57,15 +57,11 @@ NOTA: Para el par de cables restantes a conectar, no importa su lugar donde sea 
 
 **DIAGRAMA**
   
-1)	                                                                          
-
-[![3.jpg](https://i.postimg.cc/05fc2nxY/3.jpg)](https://postimg.cc/z3ynxnyv)
+1) [![3.jpg](https://i.postimg.cc/05fc2nxY/3.jpg)](https://postimg.cc/z3ynxnyv)
 
 En el primer diagrama se observa como están conectados los interruptores, con sus contactos, donde el foco, se enciende, ya que como se observa los contactos mantienen su misma posición, de tal forma que su funcionamiento permite el control de dos lugares, conocido por ser uno de los más utilizados en residencias.
 
-2)
-
-[![4.jpg](https://i.postimg.cc/JnwM0mN2/4.jpg)](https://postimg.cc/SXGw1Bt6)
+2) [![4.jpg](https://i.postimg.cc/JnwM0mN2/4.jpg)](https://postimg.cc/SXGw1Bt6)
 
 En el segundo diagrama, el circuito está desconectado, no tiene sus contactos en las mismas posiciones, lo que corta el paso de la corriente, y no se cierra el circuito.
 
