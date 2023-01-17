@@ -94,11 +94,13 @@ Hay que tomar en cuenta varias medidas de seguridad, al momento de armar el circ
 
 **4. VIDEO**
 
-
+https://youtu.be/IVDV3RRqB0E
 
 **5. CONCLUSIONES**
 
 Un dato importante a destacar en esta práctica, es la seguridad como ya se menciono, ya trabajar con corriente alterna, resultan en parte peligroso, si no se conoce el funcionamiento de cada uno de los distintos componentes que conforman un circuito, además que es recomendable trabajar con un braker, siendo mas manipulable el paso de la corriente.
+
+
 
 **6. BIBLIOGRAFÍA**
 
