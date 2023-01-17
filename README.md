@@ -100,6 +100,7 @@ https://youtu.be/IVDV3RRqB0E
 
 Un dato importante a destacar en esta práctica, es la seguridad como ya se menciono, ya trabajar con corriente alterna, resultan en parte peligroso, si no se conoce el funcionamiento de cada uno de los distintos componentes que conforman un circuito, además que es recomendable trabajar con un braker, siendo mas manipulable el paso de la corriente.
 
+La ingeniería inversa es una buena forma de aprender cricuitos complejor que nos ayudarán para el análisis de los circuitos estudidados en clase, tanto eléctricos como electrónicos, además que nos brina una introducción a lo que se estudiará mas adelante en la carrera, con este circuito damos inicio al campo de la electricidad, que es una rama importante de la mecatrónica.
 
 
 **6. BIBLIOGRAFÍA**
