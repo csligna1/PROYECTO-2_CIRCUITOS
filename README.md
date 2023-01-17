@@ -77,7 +77,7 @@ Sin embargo, también es posible conectar varios puntos con interruptores conmut
 
 **ARMADO - CRCUITO FÍSICO**
 
-[![Imagen-de-Whats-App-2023-01-16-a-las-23-32-42.jpg](https://i.postimg.cc/GpZdyny6/Imagen-de-Whats-App-2023-01-16-a-las-23-32-42.jpg)](https://postimg.cc/LqBrc7vV)
+[![jess.jpg](https://i.postimg.cc/fRmKNxvX/jess.jpg)](https://postimg.cc/nXV7K9gc)
 
 [![Imagen-de-Whats-App-2023-01-16-a-las-23-32-43.jpg](https://i.postimg.cc/02cvCwSY/Imagen-de-Whats-App-2023-01-16-a-las-23-32-43.jpg)](https://postimg.cc/CzB9hdm5)
 
