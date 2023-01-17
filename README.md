@@ -2,11 +2,11 @@
 
 **1. OBJETIVOS:**
 
-**1.1. Objetivo General:**
+**1.1. OBJETIVO GENERAL**
 
 Analizar el funcionamiento de un sensor de nivel de agua, mediante la creación de circuito en el protoboard para poder analizar desde un circuito ya realizado los componentes y su correcta conexión al circuito.
 
-**1.2. Objetivos Específicos:**
+**1.2. OBJETIVOS ESPECÍFICOS**
 
 Realizar el proceso de ingeniería inversa mediante el desallorro del sensor de nivel con el fin de conocer cómo fluyen las diferentes conexiones en los circuitos.
 
@@ -16,13 +16,21 @@ Recrear un circuito con la función de sensor, mediante la guía de un circuito 
 
 **2. MARCO TEÓRICO (RESUMEN)**
 
+**EL INTERRUPTOR**
+
 [![Mapa-1.jpg](https://i.postimg.cc/vB6tHfr5/Mapa-1.jpg)](https://postimg.cc/5YbCsHkt)
+
+**INTERRUPTOR DE 3 VÍAS**
 
 [![Imagen-2.jpg](https://i.postimg.cc/Rh71wmbF/Imagen-2.jpg)](https://postimg.cc/kR5td0C3)
 
-**3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS **
+**MATERIALES Y HERRAMIENTAS**
 
-**Circuito de conmutación doble**
+[![MAPA-3.jpg](https://i.postimg.cc/255fJ84s/MAPA-3.jpg)](https://postimg.cc/87x3fGX4)
+
+**3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS**
+
+**CIRCUITO DE CONMUTACIÓN DOBLE**
 
 
 El circuito de conmutación doble es el interruptor capaz de conectar y desconectar el paso de la corriente eléctrica a los circuitos eléctricos. Tienen la capacidad de controlar 2 puntos de luz ubicados en lugares diferentes.
@@ -47,7 +55,7 @@ La L mayúscula marca la entrada del cable de fase (o línea) y las flechas dón
 
 NOTA: Para el par de cables restantes a conectar, no importa su lugar donde sea colocados, debido a que al momento de conectar el circuito, de cualquier forma terminaran conectándose o desconectándose por sus estados de interruptores.
 
-**Diagrama**
+**DIAGRAMA**
   
 1)	                                                                          
 
@@ -61,13 +69,20 @@ En el primer diagrama se observa como están conectados los interruptores, con s
 
 En el segundo diagrama, el circuito está desconectado, no tiene sus contactos en las mismas posiciones, lo que corta el paso de la corriente, y no se cierra el circuito.
 
-**Mas de un interruptor conectado:**
+**MAS DE UN INTERRUPTOR CONECTADO**
 
 Para esto tenemos los interruptores cruzados, que, combinados con los conmutados, nos permiten controlar una luz con tantos interruptores queramos.
 
 Sin embargo, también es posible conectar varios puntos con interruptores conmutados simples, pero debemos conocer su conexión de contactos, ya que, si esto no se conecta de forma correcta, se puede ocasionar un corto circuito, dañando las líneas, y un posible riesgo de electrocutarse.
 
-**Medidas de Seguridad:**
+**ARMADO - CRCUITO FÍSICO**
+
+[![Imagen-de-Whats-App-2023-01-16-a-las-23-32-42.jpg](https://i.postimg.cc/GpZdyny6/Imagen-de-Whats-App-2023-01-16-a-las-23-32-42.jpg)](https://postimg.cc/LqBrc7vV)
+
+[![Imagen-de-Whats-App-2023-01-16-a-las-23-32-43.jpg](https://i.postimg.cc/02cvCwSY/Imagen-de-Whats-App-2023-01-16-a-las-23-32-43.jpg)](https://postimg.cc/CzB9hdm5)
+
+**MEDIDAS DE SEGURIDAD**
+
 Hay que tomar en cuenta varias medidas de seguridad, al momento de armar el circuito, como de simularlo.
 
 1.	Evite que los equipos eléctricos entren en contacto con zonas húmedas
@@ -90,4 +105,10 @@ Hay que tomar en cuenta varias medidas de seguridad, al momento de armar el circ
 Un dato importante a destacar en esta práctica, es la seguridad como ya se menciono, ya trabajar con corriente alterna, resultan en parte peligroso, si no se conoce el funcionamiento de cada uno de los distintos componentes que conforman un circuito, además que es recomendable trabajar con un braker, siendo mas manipulable el paso de la corriente.
 
 **6. BIBLIOGRAFÍA**
+
+ElectricaMX. (2019, January 7). Conexión adecuada de interruptores de 3 vías | Revista eléctrica. Revista Eléctrica. https://electrica.mx/conexion-adecuada-de-interruptores-de-3-vias/
+
+Interruptor de 3 Vías: ¿Qué es?, ¿Cómo instalarlo?, ¿Para qué sirve? — Grupo Casa Lima. (2022, May 3). Grupo Casa Lima. https://grupocasalima.com/es-ec/blog/interruptor-de-3-vias-que-es-como-instalarlo-para-que-sirve/
+
+CASALIMA. (16 de Enero de 2023). Obtenido de https://grupocasalima.com/es-ec/blog/circuitos-de-conmutacion-que-son-tipos-como-hacer-uno/
 
