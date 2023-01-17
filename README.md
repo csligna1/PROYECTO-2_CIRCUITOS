@@ -4,13 +4,21 @@
 
 **1.1. Objetivo General:**
 
-
+Analizar el funcionamiento de un sensor de nivel de agua, mediante la creación de circuito en el protoboard para poder analizar desde un circuito ya realizado los componentes y su correcta conexión al circuito.
 
 **1.2. Objetivos Específicos:**
 
+Realizar el proceso de ingeniería inversa mediante el desallorro del sensor de nivel con el fin de conocer cómo fluyen las diferentes conexiones en los circuitos.
+
+Determinar la polaridad de los diferentes componentes utilizados en el proyecto mediante el análisis visual-físico de cada componente con el fin de evitar dañar un componente en proyectos futuros por mala conexión.
+
+Recrear un circuito con la función de sensor, mediante la guía de un circuito sistemático e investigación previa, para poner a prueba los conocimientos en conexiones físicas aprendidos en clase.
 
 **2. MARCO TEÓRICO (RESUMEN)**
 
+[![Mapa-1.jpg](https://i.postimg.cc/vB6tHfr5/Mapa-1.jpg)](https://postimg.cc/5YbCsHkt)
+
+[![Imagen-2.jpg](https://i.postimg.cc/Rh71wmbF/Imagen-2.jpg)](https://postimg.cc/kR5td0C3)
 
 **3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS **
 
@@ -79,7 +87,7 @@ Hay que tomar en cuenta varias medidas de seguridad, al momento de armar el circ
 
 **5. CONCLUSIONES**
 
-
+Un dato importante a destacar en esta práctica, es la seguridad como ya se menciono, ya trabajar con corriente alterna, resultan en parte peligroso, si no se conoce el funcionamiento de cada uno de los distintos componentes que conforman un circuito, además que es recomendable trabajar con un braker, siendo mas manipulable el paso de la corriente.
 
 **6. BIBLIOGRAFÍA**
 
